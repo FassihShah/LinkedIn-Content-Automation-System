@@ -6,8 +6,8 @@
 - [What Can You Create?](#what-can-you-create)
 - [System Architecture](#system-architecture)
 - [Prerequisites](#prerequisites)
-- [Workflows](#workflows)
 - [File Structure](#file-structure)
+- [Workflows](#workflows)
 
 ---
 
@@ -176,11 +176,6 @@ Review/Approval → Automated Publishing
 - LinkedIn API: Post creation and publishing permissions
 - Perplexity API: Query access for content research
 
-### Technical Requirements
-- Stable internet connection
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- LinkedIn Company or Personal Page with publishing rights
-
 
 ---
 
@@ -201,7 +196,7 @@ Content_System/
 │   └── Statistics/                  # Data sources
 │
 ├── 04_Sources/
-│   ├── Referentes.xlsx              # Competitor profile URLs
+│   ├── Referentes.xlsx              # Competitors Posts
 │   ├── My_Posts.xlsx                # Your post samples for analysis
 │   └── Videos.xlsx                  # YouTube content for repurposing
 │
